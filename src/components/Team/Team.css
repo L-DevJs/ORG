@@ -1,0 +1,25 @@
+.team {
+
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 32px;  
+
+}
+
+.team h3{
+
+    color: #212121;
+    font-weight: 400;
+    display: inline-block;
+    padding-bottom: 8px;
+
+}
+
+.colaboladores {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
